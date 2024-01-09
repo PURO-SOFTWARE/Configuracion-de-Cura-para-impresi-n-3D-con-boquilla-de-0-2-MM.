@@ -1,0 +1,1 @@
+Esta configuración es para poder imprimir con mayor calidad con picos de 0.2mm, dicha configuración fue probada en varias impresoras entre ellas la Impresora 3d Hellbot Hidra Plus 300 Doble Extrusor , Impresora 3d Artillery Sidewinder X2 entre otras.
